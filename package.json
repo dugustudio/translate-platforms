@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/imlinhanchao/translate-platforms#readme",
   "dependencies": {
-    "got": "^10.7.0",
+    "got": "^11.3.0",
     "tough-cookie": "^3.0.0"
   },
   "devDependencies": {
